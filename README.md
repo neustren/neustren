@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @neustren
-- 👀 I’m interested in Python & Data Science
-- 🌱 I’m currently learning Scraping
-- 💞️ I’m looking to collaborate on Data Science projects
+- 👀 I’m interested in Python, Go and React.
 - 📫 How to reach me williamgvfranco@gmail.com
 
 <!---
